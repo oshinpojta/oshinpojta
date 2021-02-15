@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oshinpojta
-- 👀 I’m interested in every technology that exists and the one that needs still needs to be created/discovered. 
+- 👀 I’m interested in every technology that is created and the one that still needs to be created/discovered. 
 - 🌱 I’m currently learning R/Python/Java/French and many other languages
 - 💞️ I’m looking to collaborate on interesting projects to build on resume.
 - 📫 How to reach me ? Email:Sujanian785@gmail.com or just type my name on Google, I do exist !!
